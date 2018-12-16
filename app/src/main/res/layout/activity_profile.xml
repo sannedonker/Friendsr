@@ -36,7 +36,7 @@
         android:layout_gravity="center_vertical|center"
         android:layout_weight="0.5"
         android:numStars="5"
-        android:stepSize="1" />
+        android:stepSize="0.5" />
 
     <TextView
         android:id="@+id/BioFriendProfile"
